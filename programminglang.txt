@@ -7,3 +7,5 @@ C
 C++
 C#
 Ruby on rails.
+Go 
+Python
