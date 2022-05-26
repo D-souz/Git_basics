@@ -11,3 +11,6 @@ Go
 Python
 Perl
 Flutter
+Angular Js
+Vuu
+TypeScript
